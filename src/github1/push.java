@@ -24,8 +24,12 @@ public class push {
     public void TC_005() {
     	System.out.println("TC_005");
     }
+    public void TC_006() {
+    	System.out.println("TC_006");
+    }
 	public static void main(String[] args) {
 		 
+		
        
         
 
