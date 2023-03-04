@@ -31,7 +31,7 @@ public class push {
 		 
 		
       push obj=new push(); 
-        
+      //push obj=new push();   
 
 	}
 
