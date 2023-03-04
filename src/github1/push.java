@@ -30,7 +30,7 @@ public class push {
 	public static void main(String[] args) {
 		 
 		
-       
+      push obj=new push(); 
         
 
 	}
