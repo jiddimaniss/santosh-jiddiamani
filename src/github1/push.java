@@ -27,6 +27,9 @@ public class push {
     public void TC_006() {
     	System.out.println("TC_006");
     }
+	public void TC_007() {
+    	System.out.println("TC_007");
+    }
 	public static void main(String[] args) {
 		 
 		
